@@ -1,0 +1,48 @@
+#conteiner{
+position: absolute;
+width: 226px;
+height: 337px;
+left: 459px;
+top: 482px;
+    
+background: #FFECBB;
+}
+#red{
+position: absolute;
+width: 55px;
+height: 56px;
+left: 31px;
+top: 32px;
+    
+background: #E7C1F9;
+}
+#blua{
+position: absolute;
+width: 55px;
+height: 56px;
+left: 145px;
+top: 119px;
+bottom: 162px;
+    
+background: #E7C1F9
+}
+#orange{
+position: absolute;
+width: 55px;
+height: 56px;
+left: 37px;
+top: 168px;
+bottom: 113px;
+right: 134px;
+background: #E7C1F9
+}    
+#Green{
+position: absolute;
+width: 57px;
+height: 81px;
+left: 126px;
+top: 256px;
+        
+background: #E7C1F9;
+}
+
